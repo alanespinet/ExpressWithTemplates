@@ -1,0 +1,16 @@
+{
+  "name": "expressWithTemplates",
+  "version": "1.0.0",
+  "description": "Simple project with Express and Jade Templates",
+  "main": "app.js",
+  "scripts": {
+    "bundle": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Alan Espinet, FVI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
